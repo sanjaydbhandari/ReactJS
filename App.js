@@ -11,7 +11,7 @@ function App() {
   // <div className="App">
   //   <button onClick={onClickHandler}>Counter {count}</button>
   // </div>
-  return <Button onClickHandler={onClickHandler} count={count} />;
+  return <Button onClickHandler={onClickHandler} count={count} ></Button>;
   // );
 }
 
