@@ -27,3 +27,9 @@
 2. Array Destructuring 
 3. Listing and updating an Array
 
+### Day7 :
+1. useEffect
+2. if no dependencies,without [] -> on every re-render
+3. if no dependencies,with [] -> on reload/first re-render
+4. if no dependencies,without [value] -> when value get change re-render
+
