@@ -11,7 +11,6 @@
 3. DRY => create reuseable component. Component name always start with Capital letter. return in single element ```<></> or <div></div>```
 4. import and export component and data in react
 
-
 ### Day3 :
 1. how to pass Props
 
@@ -32,4 +31,9 @@
 2. if no dependencies,without [] -> on every re-render
 3. if no dependencies,with [] -> on reload/first re-render
 4. if no dependencies,without [value] -> when value get change re-render
+
+### Day8 :
+1. useContext Hook
+2. creating themecontext
+
 
